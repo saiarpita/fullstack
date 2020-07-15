@@ -1,0 +1,113 @@
+.imagecontainer{
+    background:url("foodWallpaper.png");
+   background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 59%, rgba(135, 0, 0, 0.65) 100%), url('foodwallpaper.png') no-repeat;
+  
+    border-style: solid;
+    border-color:white;
+    border-width:0.1px;
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+
+.logo{
+    text-align:center;
+    color:red;
+    font-size:90px;
+    background-color:white;
+    height:120px;
+    width:120px;
+    margin:auto;
+    border-radius:50%;
+    margin-top:80px;
+    margin-bottom:80px
+
+}
+.heading{
+    text-align:center;
+    color:white;
+    font-size:36px;
+}
+.locsel{
+    text-align:center;
+    margin-top:20px;
+    margin-bottom:40px;
+}
+.locdropdown{
+    border:none;
+    width:250px;
+    height:40px;
+    border-radius:0%;
+    font-size:20px;
+
+
+}
+.restinput{
+    border:none;
+    width:370px;
+    height:40px;
+    border-radius:0%;
+    font-size:20px;
+
+
+}
+.quicksearchcontainer{
+    margin-left:115px;
+    margin-top:50px;
+
+}
+.quicksearcheading{
+    text-align:left;
+    line-height:1.5;
+    color:#192f60;
+    font-size:30px;
+    font-weight:bold;
+    font-family:Georgia,'Times New Roman',Times,serif;
+
+}
+.subheading{
+    color:grey;
+    font-size:18px;
+    text-align:left;
+    font-weight:normal;
+    font-family:Georgia,'Times New Roman',Times,serif;
+    line-height:0.001;
+    
+
+}
+
+
+.titlecont{
+    box-shadow:0 3px 6px black;
+    margin-right:30px;
+    margin-bottom:30px;
+    border:auto;
+    width:400px;
+    background-color:white;
+    display:inline-block;
+    height:150px;
+}
+.tileComp1{
+    width:50%;
+    float: left;
+}
+.tileComp2{
+    width:50%;
+    float: left;
+    margin-top: 20px;
+}
+
+
+.comphead{
+    text-align:left;
+    color:#192f60;
+    font-size:18px;
+
+}
+.compsub{
+
+    text-align:left;
+    color:grey;
+    font-size:14px;
+
+}
